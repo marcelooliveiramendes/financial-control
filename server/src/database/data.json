@@ -1,0 +1,482 @@
+[
+  {
+    "user": 1,
+    "date": "01-12-1000",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 1,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-01-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 2,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-02-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 3,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-03-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 4,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-04-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 5,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-05-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 6,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-06-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 7,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-07-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 8,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-08-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 9,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-09-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 10,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-10-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 11,
+      "total": 12
+    }
+  },
+  {
+    "user": 1,
+    "date": "01-11-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 12,
+      "total": 12
+    }
+  },
+  {
+    "id": 65179009,
+    "user": 1,
+    "date": "01-12-1000",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 1,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 93356094,
+    "user": 1,
+    "date": "01-01-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 2,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 68239620,
+    "user": 1,
+    "date": "01-02-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 3,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 18914304,
+    "user": 1,
+    "date": "01-03-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 4,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 30380191,
+    "user": 1,
+    "date": "01-04-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 5,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 71735468,
+    "user": 1,
+    "date": "01-05-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 6,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 60254740,
+    "user": 1,
+    "date": "01-06-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 7,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 58471643,
+    "user": 1,
+    "date": "01-07-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 8,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 12775595,
+    "user": 1,
+    "date": "01-08-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 9,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 2697179,
+    "user": 1,
+    "date": "01-09-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 10,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 99256363,
+    "user": 1,
+    "date": "01-10-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 11,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 55438694,
+    "user": 1,
+    "date": "01-11-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 12,
+      "total": 12,
+      "prorated_id": 2000664
+    }
+  },
+  {
+    "id": 18514666,
+    "user": 1,
+    "date": "01-12-1000",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 1,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 69142604,
+    "user": 1,
+    "date": "01-01-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 2,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 59078374,
+    "user": 1,
+    "date": "01-02-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 3,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 31023099,
+    "user": 1,
+    "date": "01-03-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 4,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 25190711,
+    "user": 1,
+    "date": "01-04-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 5,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 36139273,
+    "user": 1,
+    "date": "01-05-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 6,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 3055195,
+    "user": 1,
+    "date": "01-06-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 7,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 25772472,
+    "user": 1,
+    "date": "01-07-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 8,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 92398664,
+    "user": 1,
+    "date": "01-08-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 9,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 78560421,
+    "user": 1,
+    "date": "01-09-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 10,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 10056287,
+    "user": 1,
+    "date": "01-10-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 11,
+      "total": 12,
+      "prorated_id": 488
+    }
+  },
+  {
+    "id": 84747641,
+    "user": 1,
+    "date": "01-11-1001",
+    "type": "teste",
+    "description": "teste",
+    "value": 200,
+    "prorated": true,
+    "prorated_info": {
+      "counter": 12,
+      "total": 12,
+      "prorated_id": 488
+    }
+  }
+]
